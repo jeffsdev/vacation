@@ -1,4 +1,21 @@
 .jumbotron {
   background-image: url("../img/fjad.jpg");
+  filter: blur(100px);
   color: white;
+}
+
+.navbar-brand li {
+  list-style-type: square;
+}
+
+body {
+  background-color: purple;
+}
+
+.lead {
+  background-color: red;
+  opacity: 0.5;
+}
+h1 {
+  text-shadow: 2px 2px 2px black;
 }
